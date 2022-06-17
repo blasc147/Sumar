@@ -1,0 +1,52 @@
+[
+ {
+   "Fecha": "2021-03-25 00:00:00.000",
+   "Prestacion": "Control Oftalmólogico",
+   "Efector": "H00897 - H VIII - DR. JULIO C. PERRANDO"
+ },
+ {
+   "Fecha": "2021-03-25 00:00:00.000",
+   "Prestacion": "Oftalmoscopia Binocular Indirecta (Obi)",
+   "Efector": "H00897 - H VIII - DR. JULIO C. PERRANDO"
+ },
+ {
+   "Fecha": "2021-03-30 00:00:00.000",
+   "Prestacion": "Control Oftalmólogico",
+   "Efector": "H00897 - H VIII - DR. JULIO C. PERRANDO"
+ },
+ {
+   "Fecha": "2021-04-12 00:00:00.000",
+   "Prestacion": "Control Oftalmólogico",
+   "Efector": "H00897 - H VIII - DR. JULIO C. PERRANDO"
+ },
+ {
+   "Fecha": "2021-03-29 00:00:00.000",
+   "Prestacion": "Búsqueda activa de niños con abandono de controles ",
+   "Efector": "H04489 - CS II - Barrio HIPOLITO IRIGOYEN"
+ },
+ {
+   "Fecha": "2021-03-29 00:00:00.000",
+   "Prestacion": "Examen periodico de salud (Control Sano)",
+   "Efector": "H04489 - CS II - Barrio HIPOLITO IRIGOYEN"
+ },
+ {
+   "Fecha": "2021-09-20 00:00:00.000",
+   "Prestacion": "Búsqueda activa de niños con abandono de controles ",
+   "Efector": "H04489 - CS II - Barrio HIPOLITO IRIGOYEN"
+ },
+ {
+   "Fecha": "2021-09-20 00:00:00.000",
+   "Prestacion": "Examen periodico de salud (Control Sano)",
+   "Efector": "H04489 - CS II - Barrio HIPOLITO IRIGOYEN"
+ },
+ {
+   "Fecha": "2022-03-14 00:00:00.000",
+   "Prestacion": "Examen periodico de salud (Control Sano)",
+   "Efector": "H04489 - CS II - Barrio HIPOLITO IRIGOYEN"
+ },
+ {
+   "Fecha": "2022-03-14 00:00:00.000",
+   "Prestacion": "Búsqueda activa de niños con abandono de controles ",
+   "Efector": "H04489 - CS II - Barrio HIPOLITO IRIGOYEN"
+ }
+]
